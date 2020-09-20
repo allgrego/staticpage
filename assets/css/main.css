@@ -122,12 +122,7 @@ input, select, textarea {
 			border-color: transparent;
 		}
 	
-		/* Custom */
-	#mensaje{
-		text-align: justify; 
-		text-indent: 3rem;
-		color: white;
-	}
+
 
 /* Icon */
 
@@ -1089,8 +1084,3 @@ input, select, textarea {
 		} 
 	
 	}
-
-
-
-	
-	
